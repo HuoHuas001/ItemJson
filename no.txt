@@ -1,669 +1,521 @@
-已知缺失的物品:
+已知缺失物品:
 
-bat
-bee
-blaze
-cat
-cave_spider
-cow
-creeper
-dolphin
-goat
-panda
-donkey
-drowned
-elder_guardian
-ender_crystal
-ender_dragon
-enderman
-endermite
-evocation_illager
-evocation_fang
-eye_of_ender_signal
-falling_block
-fireworks_rocket
-fishing_hook
-fox
-cod
-pufferfish
-salmon
-tropicalfish
-axolotl
-ghast
-glow_squid
-piglin_brute
-guardian
-hoglin
-horse
-husk
-ravager
-iron_golem
-item
-leash_knot
-lightning_bolt
-lingering_potion
-llama
-llama_spit
-magma_cube
-chest_minecart
-command_block_minecart
-furnace_minecart
-hopper_minecart
-tnt_minecart
-mule
-mooshroom
-moving_block
-ocelot
-parrot
-phantom
-pig
-piglin
-pillager
-polar_bear
-rabbit
-sheep
-shulker
-shulker_bullet
-silverfish
-skeleton
-skeleton_horse
-stray
-small_fireball
-snow_golem
-spider
-squid
-strider
-thrown_trident
-tripod_camera
-turtle
-vex
-villager
-armor
-butcher
-cartographer
-cleric
-farmer
-fisherman
-fletcher
-librarian
-shepherd
-tool
-weapon
-mason
-unskilled
-villager_v2
-vindicator
-wandering_trader
-witch
-wither_skeleton
-wither_skull
-wither_skull_dangerous
-wolf
-xp_orb
-xp_bottle
-zoglin
-zombie
-zombie_horse
-zombie_pigman
-zombie_villager
-zombie_villager_v2
-endcity
-fortress
-mansion
-mineshaft
-missingno
-monument
-stronghold
-temple
-village
-shipwreck
-buriedtreasure
-ruins
-pillageroutpost
-bastionremnant
-ruinedportal
-axolotlAdultBodySingle
-axolotlBabyBodySingle
-axolotlColorLucy
-axolotlColorCyan
-axolotlColorGold
-axolotlColorWild
-axolotlColorBlue
-golden_apple
-appleEnchanted
-black
-blue
-brown
-cyan
-gray
-green
-illager_captain
-lightBlue
-lime
-magenta
-pink
-purple
-red
-white
-yellow
-steak
-book
-leather_boots
-golden_boots
-bucket
-bucketLava
-bucketWater
-bucketFish
-bucketSalmon
-bucketTropical
-bucketPuffer
-bucketCustomFish
-bucketAxolotl
-tropicalColorWhite
-tropicalColorOrange
-tropicalColorMagenta
-tropicalColorSky
-tropicalColorYellow
-tropicalColorLime
-tropicalColorRose
-tropicalColorGray
-tropicalColorSilver
-tropicalColorTeal
-tropicalColorPlum
-tropicalColorBlue
-tropicalColorBrown
-tropicalColorGreen
-tropicalColorRed
-tropicalSchoolAnemone
-tropicalSchoolBlackTang
-tropicalSchoolBlueDory
-tropicalSchoolButterflyFish
-tropicalSchoolCichlid
-tropicalSchoolClownfish
-tropicalSchoolCottonCandyBetta
-tropicalSchoolDottyback
-tropicalSchoolEmperorRedSnapper
-tropicalSchoolGoatfish
-tropicalSchoolMoorishIdol
-tropicalSchoolOrnateButterfly
-tropicalSchoolParrotfish
-tropicalSchoolQueenAngelFish
-tropicalSchoolRedCichlid
-tropicalSchoolRedLippedBlenny
-tropicalSchoolRedSnapper
-tropicalSchoolThreadfin
-tropicalSchoolTomatoClown
-tropicalSchoolTriggerfish
-tropicalSchoolYellowTang
-tropicalSchoolYellowtailParrot
-canBreak
-canPlace
-golden_carrot
-carrotOnAStick
-golden_chestplate
-cooked_beef
-cooked_chicken
-cooked_porkchop
-clock
-compass
-lodestonecompass
-crossbow
-acacia_door
-birch_door
-dark_oak_door
-jungle_door
-wooden_door
-spruce_door
-dragon_breath
-glow_ink_sac
-glow_frame
-emptyMap
-emptyLocatorMap
-clownfish
-cooked_fish
-fish
-photo
-cooked_salmon
-fishing_rod
-frame
-glass_bottle
-golden_axe
-wooden_axe
-leather_helmet
-golden_helmet
-golden_hoe
-wooden_hoe
-horsearmordiamond
-horsearmorgold
-horsearmoriron
-horsearmorleather
-leather_leggings
-golden_leggings
-nautilus_shell
-heart_of_the_sea
-map
-milk
-minecartFurnace
-muttonCooked
-muttonRaw
-netherStar
-golden_pickaxe
-wooden_pickaxe
-porkchop_cooked
-portfolio
-baked_potato
-poisonous_potato
-cooked_rabbit
-redstone
-beetroot_seeds
-pumpkin_seeds
-golden_shovel
-wooden_shovel
-spruce_sign
-birch_sign
-jungle_sign
-acacia_sign
-darkoak_sign
-crimson_sign
-warped_sign
-slime_ball
-speckled_melon
-golden_sword
-wooden_sword
-unbreakable
-shield
-bucketPowderSnow
-planks
-walls
-fenceGate
-stairs
-door
-glassPane
-permission
-slab
-stoneBrick
-woolCarpet
-concretePowder
-concrete
-stainedClay
-glazedTerracotta
-dye
-ore
-sapling
-seed
-crop
-flower
-rawFood
-cookedFood
-miscFood
-monsterStoneEgg
-mobEgg
-helmet
-chestplate
-leggings
-boots
-horseArmor
-sword
-axe
-pickaxe
-shovel
-hoe
-potion
-splashPotion
-lingeringPotion
-chalkboard
-anvil
-chest
-shulkerBox
-record
-skull
-boat
-rail
-pressurePlate
-enchantedBook
-banner
-firework
-fireworkStars
-coral
-coral_decorations
-buttons
-wood
-netherWartBlock
-absorption
-blindness
-conduitPower
-confusion
-digSlowDown
-digSpeed
-empty
-emptyPotion
-healthBoost
-hunger
-awkward
-mundane
-thick
-resistance
-saturation
-turtleMaster
-turtleMaster2
-acaciaFence
-acacia_fence_gate
-activator_rail
-allow
-air
-unknown
-deny
-border_block
-beehive
-target
-bed
-bell
-conduit
-invisibleBedrock
-big_dripleaf
-small_dripleaf_block
-azalea_leaves_flowered
-azalea
-flowering_azalea
-cave_vines_body_with_berries
-cave_vines_head_with_berries
-moss_carpet
-birchFence
-birch_fence_gate
-blast_furnace
-bone_block
-brick_block
-brown_mushroom
-wooden_button
-acacia_button
-birch_button
-dark_oak_button
-jungle_button
-spruce_button
-stone_button
-cactus
-dried_kelp_block
-carved_pumpkin
-jigsaw
-honey_block
-honeycomb_block
-lodestone
-crimson_stem
-warped_stem
-crimson_hyphae
-warped_hyphae
-stripped_crimson_hyphae
-stripped_warped_hyphae
-crimson_door
-warped_door
-crimson_standing_sign
-warped_standing_sign
-crimson_wall_sign
-warped_wall_sign
-crimson_stairs
-warped_stairs
-crimson_fence
-warped_fence
-crimson_fence_gate
-warped_fence_gate
-crimson_button
-warped_button
-crimson_pressure_plate
-warped_pressure_plate
-crimson_slab
-warped_slab
-crimson_double_slab
-warped_double_slab
-warped_nylium
-basalt
-polished_basalt
-polished_blackstone_brick_stairs
-blackstone_stairs
-blackstone_wall
-polished_blackstone_brick_wall
-blackstone_slab
-polished_blackstone_brick_slab
-soul_fire
-polished_blackstone_stairs
-polished_blackstone_slab
-polished_blackstone_pressure_plate
-polished_blackstone_button
-polished_blackstone_wall
-trapped_chest
-shulkerBoxWhite
-shulkerBoxOrange
-shulkerBoxMagenta
-shulkerBoxLightBlue
-shulkerBoxYellow
-shulkerBoxLime
-shulkerBoxPink
-shulkerBoxGray
-shulkerBoxSilver
-shulkerBoxCyan
-shulkerBoxPurple
-shulkerBoxBlue
-shulkerBoxBrown
-shulkerBoxGreen
-shulkerBoxRed
-shulkerBoxBlack
-stained_hardened_clay
-cocoa
-composter
-light_block
-repeating_command_block
-chain_command_block
-darkOakFence
-dark_oak_fence_gate
-daylight_detector
-detector_rail
-podzol
-dispenser
-iron_door
-doorWood
-double_plant
-dropper
-enderChest
-end_portal_frame
-farmland
-fletching_table
-fence
-fence_gate
-fire
-yellow_flower
-red_flower
-wither_rose
-furnace
-golden_rail
-grass
-grass_path
-hay_block
-packed_ice
-frosted_ice
-jungleFence
-jungle_fence_gate
-flowing_lava
-leaves
-lit_pumpkin
-lockedchest
-log
-melon_block
-monster_egg
-mushroom
-mycelium
-nether_brick_fence
-netherreactor
-unlit_redstone_torch
-redstone_torch
-oreRuby
-observer
-piston
-sticky_piston
-potatoes
-stone_pressure_plate
-wooden_pressure_plate
-acacia_pressure_plate
-birch_pressure_plate
-dark_oak_pressure_plate
-jungle_pressure_plate
-spruce_pressure_plate
-pumpkin
-pumpkin_stem
-quartz_block
-red_mushroom
-red_mushroom_block
-red_sandstone
-redstone_wire
-redstone_lamp
-sandstone
-seaLantern
-standing_sign
-spruce_standing_sign
-birch_standing_sign
-jungle_standing_sign
-acacia_standing_sign
-darkoak_standing_sign
-spruceFence
-spruce_fence_gate
-brick_stairs
-nether_brick_stairs
-quartz_stairs
-smooth_quartz_stairs
-red_sandstone_stairs
-sandstone_stairs
-stone_stairs
-normal_stone_stairs
-stone_brick_stairs
-oak_stairs
-acacia_stairs
-birch_stairs
-dark_oak_stairs
-jungle_stairs
-spruce_stairs
-purpur_stairs
-prismarine_stairs
-dark_prismarine_stairs
-prismarine_bricks_stairs
-granite_stairs
-diorite_stairs
-andesite_stairs
-polished_granite_stairs
-polished_diorite_stairs
-polished_andesite_stairs
-mossy_stone_brick_stairs
-smooth_red_sandstone_stairs
-smooth_sandstone_stairs
-end_brick_stairs
-mossy_cobblestone_stairs
-red_nether_brick_stairs
-standing_banner
-stonecutter
-stonecutter_block
-mossy_cobblestone
-double_stone_slab
-stone_slab
-glass_pane
-tnt
-snow_layer
-torch
-tripWire
-tripwire_hook
-twisting_vines
-flowing_water
-water
-heavy_weighted_pressure_plate
-light_weighted_pressure_plate
-wooden_slab
-carpet
-crafting_table
-glazedTerracottaWhite
-glazedTerracottaOrange
-glazedTerracottaMagenta
-glazedTerracottaLightBlue
-glazedTerracottaYellow
-glazedTerracottaLime
-glazedTerracottaPink
-glazedTerracottaGray
-glazedTerracottaSilver
-glazedTerracottaCyan
-glazedTerracottaPurple
-glazedTerracottaBlue
-glazedTerracottaBrown
-glazedTerracottaGreen
-glazedTerracottaRed
-glazedTerracottaBlack
-scaffolding
-grindstone
-cartography_table
-smoker
-smithing_table
-barrel
-loom
-lectern
-sweet_berry_bush
-oak
-spruce
-birch
-jungle
-acacia
-dark_oak
-ancient_debris
-respawn_anchor
-infested_deepslate
-cobbled_deepslate_slab
-cobbled_deepslate_stairs
-cobbled_deepslate_wall
-polished_deepslate_slab
-polished_deepslate_stairs
-polished_deepslate_wall
-deepslate_tile_slab
-deepslate_tile_stairs
-deepslate_tile_wall
-deepslate_brick_slab
-deepslate_brick_stairs
-deepslate_brick_wall
-cobbled_deepslate_double_slab
-polished_deepslate_double_slab
-deepslate_tile_double_slab
-deepslate_brick_double_slab
-waxed_copper
-waxed_exposed_copper
-waxed_weathered_copper
-waxed_oxidized_copper
-waxed_cut_copper
-waxed_exposed_cut_copper
-waxed_weathered_cut_copper
-waxed_oxidized_cut_copper
-cut_copper_stairs
-exposed_cut_copper_stairs
-weathered_cut_copper_stairs
-oxidized_cut_copper_stairs
-waxed_cut_copper_stairs
-waxed_exposed_cut_copper_stairs
-waxed_weathered_cut_copper_stairs
-waxed_oxidized_cut_copper_stairs
-cut_copper_slab
-exposed_cut_copper_slab
-weathered_cut_copper_slab
-oxidized_cut_copper_slab
-waxed_cut_copper_slab
-waxed_exposed_cut_copper_slab
-waxed_weathered_cut_copper_slab
-waxed_oxidized_cut_copper_slab
-copper
-candle_cake
-white_candle_cake
-orange_candle_cake
-magenta_candle_cake
-light_blue_candle_cake
-yellow_candle_cake
-lime_candle_cake
-pink_candle_cake
-gray_candle_cake
-light_gray_candle_cake
-cyan_candle_cake
-purple_candle_cake
-blue_candle_cake
-brown_candle_cake
-green_candle_cake
-red_candle_cake
-black_candle_cake
+golden_apple 金苹果
+appleEnchanted 附魔苹果
+black 黑色旗帜
+blue 蓝色旗帜
+brown 棕色旗帜
+cyan 青色旗帜
+gray 灰色旗帜
+green 绿色旗帜
+illager_captain 灾厄村民旗帜
+lightBlue 淡蓝色旗帜
+lime 黄绿色旗帜
+magenta 品红色旗帜
+pink 粉红色旗帜
+purple 紫色旗帜
+red 红色旗帜
+white 白色旗帜
+yellow 黄色旗帜
+steak 牛排
+book 书
+leather_boots 皮革靴子
+golden_boots 金靴子
+bucket 桶
+bucketLava 熔岩桶
+bucketWater 水桶
+bucketFish 桶装鳕鱼
+bucketSalmon 桶装鲑鱼
+bucketTropical 桶装热带鱼
+bucketPuffer 桶装河豚
+bucketCustomFish 桶装 
+bucketAxolotl 美西螈桶
+tropicalSchoolAnemone 海葵鱼
+tropicalSchoolBlackTang 黑刺尾鲷
+tropicalSchoolBlueDory 拟刺尾鲷
+tropicalSchoolButterflyFish 蝶鱼
+tropicalSchoolCichlid 慈鲷
+tropicalSchoolClownfish 海葵鱼
+tropicalSchoolCottonCandyBetta 五彩搏鱼
+tropicalSchoolDottyback 拟雀鲷
+tropicalSchoolEmperorRedSnapper 川纹笛鲷
+tropicalSchoolGoatfish 拟羊鱼
+tropicalSchoolMoorishIdol 镰鱼
+tropicalSchoolOrnateButterfly 华丽蝴蝶鱼
+tropicalSchoolParrotfish 鹦嘴鱼
+tropicalSchoolQueenAngelFish 额斑刺蝶鱼
+tropicalSchoolRedCichlid 红慈鲷
+tropicalSchoolRedLippedBlenny 红唇鳚鱼
+tropicalSchoolRedSnapper 红边笛鲷
+tropicalSchoolThreadfin 马鲅
+tropicalSchoolTomatoClown 白条双锯鱼
+tropicalSchoolTriggerfish 鳞鲀
+tropicalSchoolYellowTang 黄刺尾鲷
+tropicalSchoolYellowtailParrot 黄尾鹦嘴鱼
+golden_carrot 金胡萝卜
+carrotOnAStick 胡萝卜钓竿
+golden_chestplate 金胸甲
+cooked_beef 熟牛肉
+cooked_chicken 熟鸡肉
+cooked_porkchop 熟猪排
+clock 钟
+compass 指南针
+lodestonecompass 磁石指南针
+crossbow 弩
+acacia_door 金合欢木门
+birch_door 桦木门
+dark_oak_door 深色橡木门
+jungle_door 丛林木门
+wooden_door 橡木门
+spruce_door 云杉木门
+dragon_breath 龙息
+glow_ink_sac 发光墨囊
+glow_frame 发光物品展示框
+emptyMap 空白地图
+emptyLocatorMap 空的定位器地图
+clownfish 热带鱼
+cooked_fish 熟鳕鱼
+fish 生鳕鱼
+photo 照片
+cooked_salmon 熟鲑鱼
+fishing_rod 钓鱼竿
+frame 物品展示框
+glass_bottle 玻璃瓶
+golden_axe 金斧
+wooden_axe 木斧
+leather_helmet 皮革帽子
+golden_helmet 金头盔
+golden_hoe 金锄
+wooden_hoe 木锄
+horsearmordiamond 钻石马铠
+horsearmorgold 黄金马铠
+horsearmoriron 铁马铠
+horsearmorleather 皮革马铠
+leather_leggings 皮革裤子
+golden_leggings 金护腿
+nautilus_shell 鹦鹉螺壳
+heart_of_the_sea 海洋之心
+map 地图
+milk 牛奶
+minecartFurnace 动力矿车
+muttonCooked 熟羊肉
+muttonRaw 生羊肉
+netherStar 下界之星
+golden_pickaxe 金镐
+wooden_pickaxe 木镐
+porkchop_cooked 熟猪排
+portfolio 相片簿
+baked_potato 烤马铃薯
+poisonous_potato 毒马铃薯
+cooked_rabbit 熟兔肉
+redstone 红石粉
+beetroot_seeds 甜菜根种子
+pumpkin_seeds 南瓜种子
+golden_shovel 金锹
+wooden_shovel 木锹
+spruce_sign 云杉木告示牌
+birch_sign 桦木告示牌
+jungle_sign 丛林木告示牌
+acacia_sign 金合欢木告示牌
+darkoak_sign 深色橡木告示牌
+crimson_sign 绯红告示牌
+warped_sign 诡异木告示牌
+slime_ball 粘液球
+speckled_melon 闪烁的西瓜片
+golden_sword 金剑
+wooden_sword 木剑
+unbreakable 无法破坏
+shield 护盾
+bucketPowderSnow 粉状雪桶
+planks 木板
+walls 墙
+fenceGate 栅栏门
+stairs 阶梯
+door 门
+glassPane 玻璃板
+permission 权限块
+slab 台阶
+stoneBrick 装饰石头
+woolCarpet 羊毛地毯
+concretePowder 混凝土粉末
+concrete 混凝土
+stainedClay 陶瓦
+glazedTerracotta 带釉陶瓦
+dye 染料
+ore 矿石
+sapling 树苗
+seed 种子
+crop 农作物
+flower 花
+rawFood 生食
+cookedFood 熟食
+miscFood 其他食物
+monsterStoneEgg 被虫蚀的石头
+mobEgg 生物蛋
+helmet 头盔
+chestplate 胸甲
+leggings 护腿
+boots 靴子
+horseArmor 马铠
+sword 剑
+axe 斧头
+pickaxe 镐
+shovel 锹
+hoe 锄头
+potion 药水
+splashPotion 喷溅药水
+lingeringPotion 滞留药水
+chalkboard 黑板
+anvil 铁砧
+chest 箱子
+shulkerBox 潜影盒
+record 唱片
+skull 生物头颅
+boat 船
+rail 铁轨
+pressurePlate 压力板
+enchantedBook 附魔书
+banner 旗帜
+firework 焰火
+fireworkStars 焰火炸药
+coral 珊瑚块
+coral_decorations 珊瑚装饰
+buttons 按钮
+wood 树木
+netherWartBlock 下界疣
+absorption 伤害吸收
+blindness 失明
+conduitPower 潮涌能量
+confusion 反胃
+digSlowDown 开采疲劳
+digSpeed 急速
+empty 无效果
+emptyPotion 水瓶
+healthBoost 生命提升
+hunger 饥饿
+awkward 粗制药水
+mundane 平凡药水
+thick 浓稠药水
+resistance 抗性
+saturation 饱和
+turtleMaster 缓慢
+turtleMaster2 抗性
+acaciaFence 金合欢木栅栏
+acacia_fence_gate 金合欢木栅栏门
+activator_rail 激活铁轨
+allow 允许方块
+deny 拒绝方块
+border_block 边界方块
+beehive 蜂箱
+target 标靶
+bed 床
+bell 钟
+conduit 潮涌核心
+invisibleBedrock 隐形基岩
+big_dripleaf 大型垂滴叶
+small_dripleaf_block 小型垂滴叶
+azalea_leaves_flowered 盛开杜鹃花叶
+azalea 杜鹃花
+flowering_azalea 发光杜鹃花
+cave_vines_body_with_berries 洞穴藤蔓
+cave_vines_head_with_berries 洞穴藤蔓
+moss_carpet 苔藓地毯
+birchFence 桦木栅栏
+birch_fence_gate 桦木栅栏门
+blast_furnace 高炉
+bone_block 骨头方块
+brick_block 砖块
+brown_mushroom 棕色蘑菇
+wooden_button 橡木按钮
+acacia_button 金合欢木按钮
+birch_button 桦木按钮
+dark_oak_button 深色橡木按钮
+jungle_button 丛林木按钮
+spruce_button 云杉按钮
+stone_button 石头按钮
+cactus 仙人掌
+dried_kelp_block 干海带方块
+carved_pumpkin 雕刻南瓜
+jigsaw 拼图方块
+honey_block 蜂蜜方块
+honeycomb_block 蜜脾块
+lodestone 磁石
+crimson_stem 绯红菌柄
+warped_stem 诡异菌柄
+crimson_hyphae 绯红菌丝
+warped_hyphae 诡异菌丝
+stripped_crimson_hyphae 去皮绯红菌丝
+stripped_warped_hyphae 去皮诡异菌丝
+crimson_door 绯红门
+warped_door 诡异门
+crimson_standing_sign 绯红告示牌
+warped_standing_sign 诡异木告示牌
+crimson_wall_sign 绯红告示牌
+warped_wall_sign 诡异木告示牌
+crimson_stairs 绯红阶梯
+warped_stairs 诡异阶梯
+crimson_fence 绯红栅栏
+warped_fence 诡异木栅栏
+crimson_fence_gate 绯红栅栏门
+warped_fence_gate 诡异木栅栏门
+crimson_button 绯红按钮
+warped_button 诡异木按钮
+crimson_pressure_plate 绯红压力板
+warped_pressure_plate 诡异木压力板
+crimson_slab 绯红台阶
+warped_slab 诡异木台阶
+crimson_double_slab 绯红台阶
+warped_double_slab 诡异木台阶
+warped_nylium 诡异菌岩
+basalt 玄武岩
+polished_basalt 磨制玄武岩
+polished_blackstone_brick_stairs 磨制黑石砖阶梯
+blackstone_stairs 黑石阶梯
+blackstone_wall 黑石墙
+polished_blackstone_brick_wall 磨制黑石砖墙
+blackstone_slab 黑石台阶
+polished_blackstone_brick_slab 磨制黑石砖台阶
+soul_fire 灵魂火
+polished_blackstone_stairs 磨制黑石阶梯
+polished_blackstone_slab 磨制黑石台阶
+polished_blackstone_pressure_plate 磨制黑石压力板
+polished_blackstone_button 磨制黑石按钮
+polished_blackstone_wall 磨制黑石墙
+trapped_chest 陷阱箱
+shulkerBoxWhite 白色潜影盒
+shulkerBoxOrange 橙色潜影盒
+shulkerBoxMagenta 品红色潜影盒
+shulkerBoxLightBlue 淡蓝色潜影盒
+shulkerBoxYellow 黄色潜影盒
+shulkerBoxLime 黄绿色潜影盒
+shulkerBoxPink 粉红色潜影盒
+shulkerBoxGray 灰色潜影盒
+shulkerBoxSilver 淡灰色潜影盒
+shulkerBoxCyan 青色潜影盒
+shulkerBoxPurple 紫色潜影盒
+shulkerBoxBlue 蓝色潜影盒
+shulkerBoxBrown 棕色潜影盒
+shulkerBoxGreen 绿色潜影盒
+shulkerBoxRed 红色潜影盒
+shulkerBoxBlack 黑色潜影盒
+stained_hardened_clay 陶瓦
+cocoa 可可
+composter 堆肥箱
+light_block 光源方块
+repeating_command_block 重复命令方块
+chain_command_block 连锁命令方块
+darkOakFence 深色橡木栅栏
+dark_oak_fence_gate 深色橡木栅栏门
+daylight_detector 阳光传感器
+detector_rail 探测铁轨
+podzol 灰化土
+dispenser 发射器
+iron_door 铁门
+doorWood 木门
+double_plant 植物
+dropper 投掷器
+enderChest 末影箱
+end_portal_frame 末地传送门
+farmland 农地
+fletching_table 制箭台
+fence 橡木栅栏
+fence_gate 橡木栅栏门
+fire 火
+yellow_flower 花
+red_flower 花
+wither_rose 凋零玫瑰
+furnace 熔炉
+golden_rail 动力铁轨
+grass 草方块
+grass_path 泥土小径
+hay_block 干草捆
+packed_ice 浮冰
+frosted_ice 冰霜
+jungleFence 丛林木栅栏
+jungle_fence_gate 丛林木栅栏门
+flowing_lava 熔岩
+leaves 树叶
+lit_pumpkin 南瓜灯
+lockedchest 上锁的箱子
+log 原木
+melon_block 西瓜
+monster_egg 被虫蚀的石头
+mushroom 蘑菇
+mycelium 菌丝
+nether_brick_fence 下界砖栅栏
+netherreactor 下界反应核
+unlit_redstone_torch 红石火把
+redstone_torch 红石火把
+oreRuby 红宝石矿石
+observer 侦测器
+piston 活塞
+sticky_piston 粘性活塞
+potatoes 马铃薯
+stone_pressure_plate 石质压力板
+wooden_pressure_plate 橡木压力板
+acacia_pressure_plate 金合欢木压力板
+birch_pressure_plate 桦木压力板
+dark_oak_pressure_plate 深色橡木压力板
+jungle_pressure_plate 丛林木压力板
+spruce_pressure_plate 云杉压力板
+pumpkin 南瓜
+pumpkin_stem 南瓜茎
+quartz_block 石英块
+red_mushroom 红蘑菇
+red_mushroom_block 红蘑菇方块
+red_sandstone 红沙石
+redstone_wire 红石粉
+redstone_lamp 红石灯
+sandstone 沙石
+seaLantern 海晶灯
+standing_sign 告示牌
+spruce_standing_sign 云杉木告示牌
+birch_standing_sign 桦木告示牌
+jungle_standing_sign 丛林木告示牌
+acacia_standing_sign 金合欢木告示牌
+darkoak_standing_sign 深色橡木告示牌
+spruceFence 云杉栅栏
+spruce_fence_gate 云杉栅栏门
+brick_stairs 砖阶梯
+nether_brick_stairs 下界砖阶梯
+quartz_stairs 石英阶梯
+smooth_quartz_stairs 平滑石英阶梯
+red_sandstone_stairs 红沙石阶梯
+sandstone_stairs 沙石阶梯
+stone_stairs 圆石阶梯
+normal_stone_stairs 石质阶梯
+stone_brick_stairs 石砖阶梯
+oak_stairs 橡木阶梯
+acacia_stairs 金合欢木阶梯
+birch_stairs 桦木阶梯
+dark_oak_stairs 深色橡木阶梯
+jungle_stairs 丛林木阶梯
+spruce_stairs 云杉木阶梯
+purpur_stairs 紫珀阶梯
+prismarine_stairs 海晶石阶梯
+dark_prismarine_stairs 暗海晶石阶梯
+prismarine_bricks_stairs 海晶石砖阶梯
+granite_stairs 花岗岩阶梯
+diorite_stairs 闪长岩阶梯
+andesite_stairs 安山岩阶梯
+polished_granite_stairs 磨制花岗岩阶梯
+polished_diorite_stairs 磨制闪长岩阶梯
+polished_andesite_stairs 磨制安山岩阶梯
+mossy_stone_brick_stairs 苔石砖阶梯
+smooth_red_sandstone_stairs 平滑红沙石阶梯
+smooth_sandstone_stairs 平滑沙石阶梯
+end_brick_stairs 末地石砖阶梯
+mossy_cobblestone_stairs 苔圆石阶梯
+red_nether_brick_stairs 红色下界砖阶梯
+standing_banner 旗帜
+stonecutter 切石机
+stonecutter_block 切石机
+mossy_cobblestone 苔圆石
+double_stone_slab 石台阶
+stone_slab 石台阶
+glass_pane 玻璃板
+tnt TNT
+snow_layer 顶层雪
+torch 火把
+tripWire 绊线
+tripwire_hook 绊线钩
+twisting_vines 缠怨藤
+flowing_water 水
+water 水
+heavy_weighted_pressure_plate 测重压力板（重型）
+light_weighted_pressure_plate 测重压力板（轻型）
+wooden_slab 木台阶
+carpet 地毯
+crafting_table 工作台
+glazedTerracottaWhite 白色带釉陶瓦
+glazedTerracottaOrange 橙色带釉陶瓦
+glazedTerracottaMagenta 品红色带釉陶瓦
+glazedTerracottaLightBlue 淡蓝色带釉陶瓦
+glazedTerracottaYellow 黄色带釉陶瓦
+glazedTerracottaLime 黄绿色带釉陶瓦
+glazedTerracottaPink 粉红色带釉陶瓦
+glazedTerracottaGray 灰色带釉陶瓦
+glazedTerracottaSilver 淡灰色带釉陶瓦
+glazedTerracottaCyan 青色带釉陶瓦
+glazedTerracottaPurple 紫色带釉陶瓦
+glazedTerracottaBlue 蓝色带釉陶瓦
+glazedTerracottaBrown 棕色带釉陶瓦
+glazedTerracottaGreen 绿色带釉陶瓦
+glazedTerracottaRed 红色带釉陶瓦
+glazedTerracottaBlack 黑色带釉陶瓦
+scaffolding 脚手架
+grindstone 磨石
+cartography_table 制图台
+smoker 火炉
+smithing_table 锻造台
+barrel 木桶
+loom 织布机
+lectern 讲台
+sweet_berry_bush 甜浆果灌木丛
+oak 橡木
+spruce 云杉木
+birch 桦木
+jungle 丛林木
+acacia 金合欢木
+dark_oak 深色橡木
+ancient_debris 远古残骸
+respawn_anchor 重生锚
+infested_deepslate 被虫蚀的深板岩
+cobbled_deepslate_slab 深板岩圆石台阶
+cobbled_deepslate_stairs 深板岩圆石阶梯
+cobbled_deepslate_wall 深板岩圆石墙
+polished_deepslate_slab 磨制深板岩台阶
+polished_deepslate_stairs 磨制深板岩阶梯
+polished_deepslate_wall 磨制深板岩墙
+deepslate_tile_slab 深板岩瓦台阶
+deepslate_tile_stairs 深板岩瓦阶梯
+deepslate_tile_wall 深板岩瓦墙
+deepslate_brick_slab 深板岩砖台阶
+deepslate_brick_stairs 深板岩砖阶梯
+deepslate_brick_wall 深板岩砖墙
+cobbled_deepslate_double_slab 深板岩圆石双台阶
+polished_deepslate_double_slab 磨制深板岩双台阶
+deepslate_tile_double_slab 深板岩瓦双台阶
+deepslate_brick_double_slab 深板岩砖双台阶
+waxed_copper 涂蜡铜方块
+waxed_exposed_copper 涂蜡外露铜
+waxed_weathered_copper 涂蜡风化铜
+waxed_oxidized_copper 涂蜡氧化铜
+waxed_cut_copper 涂蜡切制铜
+waxed_exposed_cut_copper 涂蜡外露切制铜
+waxed_weathered_cut_copper 涂蜡风化切制铜
+waxed_oxidized_cut_copper 涂蜡氧化切制铜
+cut_copper_stairs 切制铜阶梯
+exposed_cut_copper_stairs 外露切制铜阶梯
+weathered_cut_copper_stairs 风化切制铜阶梯
+oxidized_cut_copper_stairs 氧化切制铜阶梯
+waxed_cut_copper_stairs 涂蜡切制铜阶梯
+waxed_exposed_cut_copper_stairs 涂蜡外露切制铜阶梯
+waxed_weathered_cut_copper_stairs 涂蜡风化切制铜阶梯
+waxed_oxidized_cut_copper_stairs 涂蜡氧化切制铜阶梯
+cut_copper_slab 切制铜台阶
+exposed_cut_copper_slab 外露切制铜台阶
+weathered_cut_copper_slab 风化切制铜台阶
+oxidized_cut_copper_slab 氧化切制铜台阶
+waxed_cut_copper_slab 涂蜡切制铜台阶
+waxed_exposed_cut_copper_slab 涂蜡外露切制铜台阶
+waxed_weathered_cut_copper_slab 涂蜡风化切制铜台阶
+waxed_oxidized_cut_copper_slab 涂蜡氧化切制铜台阶
+copper 铜
+candle_cake 带蜡烛的蛋糕
+white_candle_cake 带白色蜡烛的蛋糕
+orange_candle_cake 带橙色蜡烛的蛋糕
+magenta_candle_cake 带品红色蜡烛的蛋糕
+light_blue_candle_cake 带淡蓝色蜡烛的蛋糕
+yellow_candle_cake 带黄色蜡烛的蛋糕
+lime_candle_cake 带黄绿色蜡烛的蛋糕
+pink_candle_cake 带粉红色蜡烛的蛋糕
+gray_candle_cake 带灰色蜡烛的蛋糕
+light_gray_candle_cake 带淡灰色蜡烛的蛋糕
+cyan_candle_cake 带青色蜡烛的蛋糕
+purple_candle_cake 带紫色蜡烛的蛋糕
+blue_candle_cake 带蓝色蜡烛的蛋糕
+brown_candle_cake 带棕色蜡烛的蛋糕
+green_candle_cake 带绿色蜡烛的蛋糕
+red_candle_cake 带红色蜡烛的蛋糕
+black_candle_cake 带黑色蜡烛的蛋糕

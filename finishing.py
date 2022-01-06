@@ -16,7 +16,7 @@ for i in item:
     except Exception as e:
         icn = ''
         with open('no.txt','a',encoding='UTF-8') as f:
-            f.write(str(e).replace("'",'')+'\n')
+            f.write(str(e).replace("'",'')+' '+item[i]+'\n')
     items[i] = {
         'NameCh':item[i],
         "icon": icn,
