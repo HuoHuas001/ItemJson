@@ -6,12 +6,12 @@
     },
     "villageHero": {
         "NameCh": "村庄英雄",
-        "icon": "",
+        "icon": "textures/gui/newgui/mob_effects/village_hero_effect",
         "NameEn": "villageHero"
     },
     "arrowDamage": {
         "NameCh": "力量",
-        "icon": "",
+        "icon": "textures/gui/newgui/mob_effects/strength_effect",
         "NameEn": "arrowDamage"
     },
     "arrowFire": {
