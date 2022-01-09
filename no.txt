@@ -1,7 +1,5 @@
 已知缺失物品:
 
-golden_apple 金苹果
-appleEnchanted 附魔苹果
 black 黑色旗帜
 blue 蓝色旗帜
 brown 棕色旗帜
@@ -21,15 +19,7 @@ steak 牛排
 book 书
 leather_boots 皮革靴子
 golden_boots 金靴子
-bucket 桶
-bucketLava 熔岩桶
-bucketWater 水桶
-bucketFish 桶装鳕鱼
-bucketSalmon 桶装鲑鱼
-bucketTropical 桶装热带鱼
-bucketPuffer 桶装河豚
 bucketCustomFish 桶装 
-bucketAxolotl 美西螈桶
 tropicalSchoolAnemone 海葵鱼
 tropicalSchoolBlackTang 黑刺尾鲷
 tropicalSchoolBlueDory 拟刺尾鲷
@@ -52,25 +42,12 @@ tropicalSchoolTomatoClown 白条双锯鱼
 tropicalSchoolTriggerfish 鳞鲀
 tropicalSchoolYellowTang 黄刺尾鲷
 tropicalSchoolYellowtailParrot 黄尾鹦嘴鱼
-golden_carrot 金胡萝卜
 carrotOnAStick 胡萝卜钓竿
 golden_chestplate 金胸甲
 cooked_beef 熟牛肉
 cooked_chicken 熟鸡肉
 cooked_porkchop 熟猪排
-clock 钟
-compass 指南针
-lodestonecompass 磁石指南针
-crossbow 弩
-acacia_door 金合欢木门
-birch_door 桦木门
-dark_oak_door 深色橡木门
-jungle_door 丛林木门
-wooden_door 橡木门
-spruce_door 云杉木门
 dragon_breath 龙息
-glow_ink_sac 发光墨囊
-glow_frame 发光物品展示框
 emptyMap 空白地图
 emptyLocatorMap 空的定位器地图
 clownfish 热带鱼

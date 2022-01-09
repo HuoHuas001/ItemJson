@@ -1,7 +1,7 @@
 {
     "badOmen": {
         "NameCh": "凶兆",
-        "icon": "",
+        "icon": "textures/gui/newgui/mob_effects/bad_omen_effect",
         "NameEn": "badOmen"
     },
     "villageHero": {
@@ -251,7 +251,7 @@
     },
     "ender_crystal": {
         "NameCh": "末影水晶",
-        "icon": "",
+        "icon": "textures/items/end_crystal.png",
         "NameEn": "ender_crystal"
     },
     "ender_dragon": {
@@ -286,7 +286,7 @@
     },
     "eye_of_ender_signal": {
         "NameCh": "末影之眼",
-        "icon": "",
+        "icon": "textures/items/ender_eye.png",
         "NameEn": "eye_of_ender_signal"
     },
     "falling_block": {
@@ -301,12 +301,12 @@
     },
     "fireworks_rocket": {
         "NameCh": "焰火火箭",
-        "icon": "",
+        "icon": "textures/entity/fireworks.png",
         "NameEn": "fireworks_rocket"
     },
     "fishing_hook": {
         "NameCh": "鱼钩",
-        "icon": "",
+        "icon": "textures/entity/fishing_hook.png",
         "NameEn": "fishing_hook"
     },
     "fox": {
@@ -576,7 +576,7 @@
     },
     "thrown_trident": {
         "NameCh": "三叉戟",
-        "icon": "",
+        "icon": "textures/entity/trident.png",
         "NameEn": "thrown_trident"
     },
     "tripod_camera": {
@@ -716,7 +716,7 @@
     },
     "xp_bottle": {
         "NameCh": "附魔之瓶",
-        "icon": "",
+        "icon": "textures/items/experience_bottle.png",
         "NameEn": "xp_bottle"
     },
     "zoglin": {
@@ -866,12 +866,12 @@
     },
     "golden_apple": {
         "NameCh": "金苹果",
-        "icon": "",
+        "icon": "textures/items/apple_golden.png",
         "NameEn": "golden_apple"
     },
     "appleEnchanted": {
         "NameCh": "附魔苹果",
-        "icon": "",
+        "icon": "textures/items/apple_golden.png",
         "NameEn": "appleEnchanted"
     },
     "tipped_arrow": {
@@ -1041,37 +1041,37 @@
     },
     "bucket": {
         "NameCh": "桶",
-        "icon": "",
+        "icon": "textures/items/bucket_empty.png",
         "NameEn": "bucket"
     },
     "bucketLava": {
         "NameCh": "熔岩桶",
-        "icon": "",
+        "icon": "textures/items/bucket_lava.png",
         "NameEn": "bucketLava"
     },
     "bucketWater": {
         "NameCh": "水桶",
-        "icon": "",
+        "icon": "textures/items/bucket_water.png",
         "NameEn": "bucketWater"
     },
     "bucketFish": {
         "NameCh": "桶装鳕鱼",
-        "icon": "",
+        "icon": "textures/items/bucket_cod.png",
         "NameEn": "bucketFish"
     },
     "bucketSalmon": {
         "NameCh": "桶装鲑鱼",
-        "icon": "",
+        "icon": "textures/items/bucket_salmon.png",
         "NameEn": "bucketSalmon"
     },
     "bucketTropical": {
         "NameCh": "桶装热带鱼",
-        "icon": "",
+        "icon": "textures/items/bucket_tropical.png",
         "NameEn": "bucketTropical"
     },
     "bucketPuffer": {
         "NameCh": "桶装河豚",
-        "icon": "",
+        "icon": "textures/items/bucket_pufferfish.png",
         "NameEn": "bucketPuffer"
     },
     "bucketCustomFish": {
@@ -1081,7 +1081,7 @@
     },
     "bucketAxolotl": {
         "NameCh": "美西螈桶",
-        "icon": "",
+        "icon": "textures/items/bucket_axolotl.png",
         "NameEn": "bucketAxolotl"
     },
     "tropicalColorWhite": {
@@ -1281,7 +1281,7 @@
     },
     "golden_carrot": {
         "NameCh": "金胡萝卜",
-        "icon": "",
+        "icon": "textures/items/carrot_golden.png",
         "NameEn": "golden_carrot"
     },
     "carrotOnAStick": {
@@ -1356,7 +1356,7 @@
     },
     "clock": {
         "NameCh": "钟",
-        "icon": "",
+        "icon": "textures/items/clock_item.png",
         "NameEn": "clock"
     },
     "coal": {
@@ -1371,12 +1371,12 @@
     },
     "compass": {
         "NameCh": "指南针",
-        "icon": "",
+        "icon": "textures/items/compass_item.png",
         "NameEn": "compass"
     },
     "lodestonecompass": {
         "NameCh": "磁石指南针",
-        "icon": "",
+        "icon": "textures/items/lodestonecompass_item.png",
         "NameEn": "lodestonecompass"
     },
     "cookie": {
@@ -1386,7 +1386,7 @@
     },
     "crossbow": {
         "NameCh": "弩",
-        "icon": "",
+        "icon": "textures/items/crossbow_standby.png",
         "NameEn": "crossbow"
     },
     "diamond": {
@@ -1401,32 +1401,32 @@
     },
     "acacia_door": {
         "NameCh": "金合欢木门",
-        "icon": "",
+        "icon": "textures/items/door_acacia.png",
         "NameEn": "acacia_door"
     },
     "birch_door": {
         "NameCh": "桦木门",
-        "icon": "",
+        "icon": "textures/items/door_birch.png",
         "NameEn": "birch_door"
     },
     "dark_oak_door": {
         "NameCh": "深色橡木门",
-        "icon": "",
+        "icon": "textures/items/door_dark_oak.png",
         "NameEn": "dark_oak_door"
     },
     "jungle_door": {
         "NameCh": "丛林木门",
-        "icon": "",
+        "icon": "textures/items/door_jungle.png",
         "NameEn": "jungle_door"
     },
     "wooden_door": {
         "NameCh": "橡木门",
-        "icon": "",
+        "icon": "textures/items/door_wood.png",
         "NameEn": "wooden_door"
     },
     "spruce_door": {
         "NameCh": "云杉木门",
-        "icon": "",
+        "icon": "textures/items/door_spruce.png",
         "NameEn": "spruce_door"
     },
     "dragon_breath": {
@@ -1436,12 +1436,12 @@
     },
     "glow_ink_sac": {
         "NameCh": "发光墨囊",
-        "icon": "",
+        "icon": "textures/items/dye_powder_glow.png",
         "NameEn": "glow_ink_sac"
     },
     "glow_frame": {
         "NameCh": "发光物品展示框",
-        "icon": "",
+        "icon": "textures/items/glow_item_frame.png",
         "NameEn": "glow_frame"
     },
     "elytra": {
